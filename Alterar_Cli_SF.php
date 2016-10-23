@@ -27,7 +27,6 @@ if(($_SESSION["nivel"] == "Funcionario")||($_SESSION["nivel"] == "Administrador"
 	<script type="text/javascript" src="jquery.validate.js"></script>
 </head>
 <body>
-    
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2">
