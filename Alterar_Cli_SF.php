@@ -1,6 +1,4 @@
-﻿<?php
-// Teste
-
+<?php
 session_start();
 include "auxiliar.php";
 include "Conexao.php";
